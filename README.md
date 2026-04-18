@@ -4,7 +4,7 @@ Regression analysis on the California Housing dataset using Linear Regression an
 To evaluate understanding of regression techniques in supervised learning by applying them to the California Housing dataset.
 # Dataset
 * Source: California Housing Dataset from sklearn.datasets
-* Size: 20,640 samples, 8 features
+* Size: 20,640 samples, 9 features
 * Target: Median House Value (in $100,000s)
   
 # Features
@@ -20,7 +20,7 @@ To evaluate understanding of regression techniques in supervised learning by app
 | Longitude  | Geographic longitude        |
 
 # Libraries Used
-numpy, pandas, matplotlib, seaborn, scikit-learn
+numpy, pandas, scikit-learn
 
 # Project Structute
 ```
